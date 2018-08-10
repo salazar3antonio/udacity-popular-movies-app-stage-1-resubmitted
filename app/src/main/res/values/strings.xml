@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Discover Movies</string>
+    <string name="movie_poster_description_text">Movie poster image</string>
+    <string name="date_released_header_text">Date Released:</string>
+    <string name="vote_average_ration_header_text">Average Rating:</string>
+    <string name="synopsis_header_text">Synopsis:</string>
+    <string name="vote_10_text"> /10</string>
+</resources>
